@@ -1,0 +1,9 @@
+By downloading, you agree to the terms and conditions of the respective license.
+
+If you're looking for the latest VirtualBox 6.0 packages, see VirtualBox 6.0 builds. Please also use 
+version 6.0 if you need to run VMs with software virtualization, 
+as this has been discontinued in 6.1. Version 6.0 will remain supported until July 2020.
+
+If you're looking for the latest VirtualBox 5.2 packages, see VirtualBox 5.2 builds.
+ Please also use version 5.2 if you still need support for 32-bit hosts, as this has been discontinued in 6.0. 
+Version 5.2 will remain supported until July 2020.
